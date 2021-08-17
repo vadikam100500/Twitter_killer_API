@@ -1,0 +1,10 @@
+requests
+django==2.2.6
+djangorestframework
+djangorestframework-simplejwt
+djoser
+drf-yasg 
+pytest
+pytest-pythonpath==0.7.3
+pytest-django
+pillow

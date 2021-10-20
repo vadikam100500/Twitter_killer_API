@@ -4,7 +4,8 @@ djangorestframework
 djangorestframework-simplejwt
 djoser
 drf-yasg 
+pillow
 pytest
 pytest-pythonpath==0.7.3
 pytest-django
-pillow
+python-dotenv

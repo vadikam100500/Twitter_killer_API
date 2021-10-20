@@ -1,11 +1,21 @@
 # Twitter_killer_api
-Twitter_killer_api is the Twitter_killer project API
+## API for Twitter_killer project.
+
 * You can create posts 
 * Comment on posts
 * Subscribe to authors
 * Create groups
+***
+## Stack
 
-### Requirements
+- Python 3
+- Django REST Framework
+- Django 2.2
+- SQLite3
+- Simple-JWT
+- OpenAPI
+***
+## Requirements
 
 Install dependencies and virtual environment and start the server.
 
@@ -17,8 +27,7 @@ Install dependencies and virtual environment and start the server.
 - $ python manage.py runserver
 
 ```
-
-### Request examples and documentation
+***
+## Request examples and documentation
 
 Sample requests and documentation are provided at [link 1](http://127.0.0.1:8000/swagger/) or at [link 2](http://127.0.0.1:8000/redoc_main/) after runserver.
-
